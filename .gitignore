@@ -102,3 +102,16 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+data/anime.csv
+data/rating.csv
+summary/data_summary_rating.xlsx
+summary/data_summary_anime.xlsx
+summary/data_schema_rating_mdf.xlsx
+summary/data_schema_rating.xlsx
+summary/data_schema_anime_mdf.xlsx
+*.xlsx
+img_temp/rating.png
+img_temp/members.png
+img_temp/episodes.png
+img_temp/.DS_Store
+data/.DS_Store
