@@ -34,7 +34,7 @@ The best recommendation method is DAE, according to experiment.
 
 ## Algorithm.
 - recommendation_DAE.ipynb: This notebook contains DAE recommendation system, using TensorFlow, as well as the RMSE result.
-- recommendation_basic.ipynb: This notebook contains [SVD, NMF] recommendation system, using "Suprise"(Python Package designed for RecSys algorithms), as well as the RMSE result.
+- recommendation_basic.ipynb: This notebook contains [SVD, NMF] recommendation system, using [Surprise](http://surpriselib.com/)(Python Package designed for RecSys algorithms), as well as the RMSE result.
 
 
 
