@@ -5,6 +5,7 @@ This project is built to set up a recommendation system for anime, as well as ev
 The most important motivation of this project is to evaluate several methods of recommendation, and to select the best one in this project.
 The RecSys can be divided into two categories, as in following pic.
 ![](https://github.com/AxsPlayer/Project_TensorFlow_Recommendation-SystemofAnime/blob/master/images/recsys_category.png)
+![](https://github.com/AxsPlayer/Project_TensorFlow_Recommendation-SystemofAnime/blob/master/images/recsys_methodwithpackage.png)
 
 # Content of Project.
 ## Data source.
