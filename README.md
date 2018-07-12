@@ -14,14 +14,12 @@ The data source is https://www.kaggle.com/CooperUnion/anime-recommendations-data
 ## The recommendation methods in competition.
 - SVD: Singular Value Decomposition.
 - NMF: Negative Matrix Factorization.
-- CF: Collaborate Filtering.
 - DAE: Deep AutoEncoder.
 
 ## Results. 
 Evaluated by RMSE.
 - SVD: 1.1840
 - NMF: 2.2097
-- CF:
 - DAE: 0.7809
 
 The best recommendation method is DAE, according to experiment.
